@@ -1,27 +1,18 @@
-# Product Mastery Suite
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/product-mastery-suite)
-
-6 mentes de produto e design: Steve Jobs (visão), Marty Cagan (PM), Jeff Patton (story mapping), Cagan & Patton (fusão), Don Norman (UX), Brad Frost (design systems)
-
-| | |
-|---|---|
-| **Category** | bundle |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $299.00 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/product-mastery-suite) to install.
-
-```bash
-# After purchase:
-myclaude install product-mastery-suite
-```
-
-## About
+---
+name: product-mastery-suite
+display_name: Product Mastery Suite
+description: "6 mentes de produto e design: Steve Jobs (visão), Marty Cagan (PM), Jeff Patton (story mapping), Cagan & Patton (fusão), Don Norman (UX), Brad Frost (design systems)"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "product"
+  - "design"
+  - "ux"
+  - "agile"
+  - "product-management"
+marketplace_url: "https://myclaude.sh/p/product-mastery-suite"
+---
 
 # Product Mastery Suite
 
@@ -77,13 +68,3 @@ MIT
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`product` `design` `ux` `agile` `product-management`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/product-mastery-suite) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
