@@ -1,13 +1,15 @@
 name: product-mastery-suite
 version: 1.0.0
-type: bundle
-description: "6 mentes de produto e design: Steve Jobs (visão), Marty Cagan (PM), Jeff Patton (story mapping), Cagan & Patton (fusão), Don Norman (UX), Brad Frost (design systems)"
+type: squad
+description: "6 mentes de produto e design: Steve Jobs (visão), Marty Cagan (product management), Jeff Patton (story mapping), Cagan-Patton (fusão), Don Norman (UX), Brad Frost (design systems). Use when: construir produtos, design, UX, gestão de produto."
 price: 299
 license: MIT
-entry: BUNDLE.md
+entry: SQUAD.md
 tags:
   - product
   - design
-  - ux
-  - agile
+  - UX
   - product-management
+  - story-mapping
+  - design-systems
+  - atomic-design
